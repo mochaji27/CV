@@ -1,0 +1,54 @@
+body{
+    margin: 50px 100px;
+    font-family: sans-serif;
+}
+.top-container{
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+.top-container p{
+    margin: 0px;
+}
+.top-container h1{
+    margin-bottom: 0px;
+}
+.top-container hr{
+    width: 40%;
+}
+.mid-container{
+    margin-top: 50px;
+}
+.mid-container h2{
+    margin-bottom: 0px;
+}
+.mid-container p{
+    text-align: justify;
+    text-justify: auto;
+}   
+.main-container, .skill-container{
+    margin-bottom: 50px;
+}
+.name{
+    margin-bottom: 0px;
+}
+.detail{
+    margin: 0px;
+}
+.period{
+    margin-top: 0px;
+}
+.main-container ul{
+    margin: 0px;
+    margin-top: 10px;
+}
+.main-container li{
+    text-align: justify;
+    text-justify: auto;
+    margin-bottom: 5px;
+}
+.skill-container ul{
+    list-style-type: disc;
+    columns: 3;
+    list-style-position: inside;
+}
